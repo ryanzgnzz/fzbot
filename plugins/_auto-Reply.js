@@ -18,8 +18,8 @@ export async function all(m) {
     // ketika ada yang kirim anu
     if ((m.mtype === 'groupInviteMessage' || m.text.startsWith('https://chat') || m.text.startsWith('Buka tautan ini')) && !m.isBaileys && !m.isGroup) {
         this.sendButton(m.chat, `${htjava} *Undang Bot ke Grup* ${htjava}
-${dmenub} 7 Hari / Rp 10.000
-${dmenub} 30 Hari / Rp 25.000
+${dmenub} 7 Hari / Rp 5.000
+${dmenub} Permanen / Rp 10.000
 ${dmenuf}
 `.trim(), wm, 'OWNER', '.owner', m)
 await this.reply(nomorown + '@s.whatsapp.net', `Ada Yang Mau Nyulik nih :v \n\ndari: @${m.sender.split("@")[0]} \n\npesan: ${m.text}`, m, { mentions: [m.sender] })
