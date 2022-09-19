@@ -12,8 +12,7 @@ if (command == 'sewabot') {
 ║ ┅ ๑————————————๑
 ║┊ ⌲ *1Minggu* = _5k_
 ║┊ ⌲ *1Bulan* = _10k_
-║┊ ⌲ *Permanen* = _15k_
-║┊ ⌲ *Permanen+Premium* = _20k_                                                                      ║┊ ⌲ *Permanen* = _80k/grup_
+║┊ ⌲ *Permanen* = _15k_                                                       
 ╰═ ┅ ═══════
 
 
