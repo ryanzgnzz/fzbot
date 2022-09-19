@@ -10,10 +10,10 @@ if (command == 'sewabot') {
 *• SEWA BOT & UP TO PREMIUM •*
         
 ║ ┅ ๑————————————๑
-║┊ ⌲ *Hemat* = _5k/grup (1 minggu)_
-║┊ ⌲ *Normal* = _15k/grup (1 bulan)_
-║┊ ⌲ *Standar* = _45k/grup (3 bulan)_
-║┊ ⌲ *Pro* = _65k/grup (5 bulan)_                                                                      ║┊ ⌲ *Permanen* = _80k/grup_
+║┊ ⌲ *1Minggu* = _5k_
+║┊ ⌲ *1Bulan* = _10k_
+║┊ ⌲ *Permanen* = _15k_
+║┊ ⌲ *Permanen+Premium* = _20k_                                                                      ║┊ ⌲ *Permanen* = _80k/grup_
 ╰═ ┅ ═══════
 
 
