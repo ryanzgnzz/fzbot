@@ -273,6 +273,11 @@ let usrs = db.data.users[m.sender]
  
 let tek = `
   「 YANZBOT-MD ⁩㊣ 」
+  Created By YanzOfc 
+`
+const listMessage = {
+  text: tek,
+  footer: '「 YANZBOT-MD ⁩㊣ 」
 
  ╭──〔  𝐈𝐍𝐅𝐎 𝐔𝐒𝐄𝐑  〕─⬣ 
  │⬡ User :  *${await conn.getName(m.sender)}*
@@ -290,11 +295,7 @@ let tek = `
  │⬡ Register :  *${Object.values(global.db.data.users).filter(user => user.registered == true).length}*
  │⬡ Unreg : *${Object.keys(global.db.data.users).length}*
  │⬡ Os Platform : *${os.platform()}*
- ╰─────────────⬣
-`
-const listMessage = {
-  text: tek,
-  footer: '© YANZ OFC | ALL RESERVED',
+ ╰─────────────⬣',
   mentions: await conn.parseMention(tek),
   title: ``,
   buttonText: `LIST MENU`,
