@@ -30,69 +30,69 @@ global.wktuwib = `${global.wibh} H ${global.wibm} M ${global.wibs} S`
 // Kalau gapunya di biarin aja!, atau ga di kasih tanda '-'
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/fangzganz?igshid=YmMyMTA2M2Y=' //Instagram mu
-global.sgh = 'https://github.com/Fangzbotz2007' //Github mu
-global.swb = 'https://fangzbot.websites.co.in'
+global.sig = 'https://instagram.com' //Instagram mu
+global.sgh = 'https://github.com/kepo' //Github mu
+global.swb = 'https://api-yanzzofc.herokuapp.com'
 global.sfb = 'https://www.facebook.com/'
 global.syt = 'https://www.youtube.com/'
-global.syt = 'https://youtube.com/channel/UCACHvReRmw2fxgMutPFCBWg' //YT Mu
-global.sgc = 'https://chat.whatsapp.com/HpxyS6b45SoGIKG7LHddiM' //Group WhatsApp mu
-global.sdc = 'https://youtube.com/channel/UCACHvReRmw2fxgMutPFCBWg' //Discord Mu
+global.syt = 'https://youtube.com/c/RyanzOfc' //YT Mu
+global.sgc = 'https://chat.whatsapp.com/gada' //Group WhatsApp mu
+global.sdc = 'https://youtube.com/c/RyanzOfc' //Discord Mu
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*⫘⫘⫘⫘ALL PAYMENT⫘⫘⫘⫘⫘*/
-global.pdana = '088215689772' //Dana
-global.povo = '088215689772' //Ovo
-global.pgopay = '088215689772' //Gopay
-global.ppulsa = '088215689772' //Pulsa 
-global.ppulsa2 = '0895394988123' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
-global.psaweria = 'https://saweria.co/FangzBot' //Saweria
-global.donate = '〔 Dᴏɴᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕\n\n››╭─〘 *Donasi* 〙\n╭╡📮: Donasi ngab jangan make bot doang.│\n┝‷✧ *Ovo:* 088215689772\n│┝‷✧ *Dana:* 088215689772\n│┝‷✧ *Gopay:* 088215689772\n│╰───···─────\n│⁺◛˖ Ingin Donasi? Chat nomor owner\n╰──────────···───╮'
+global.pdana = '085798334597' //Dana
+global.povo = '085798334597' //Ovo
+global.pgopay = '085798334597' //Gopay
+global.ppulsa = '085798334597' //Pulsa 
+global.ppulsa2 = '085863725673' //Pulsa, Kalau nomor cuma 1, yg ini kasih tanda -
+global.psaweria = 'https://saweria.co/ryanzstore' //Saweria
+global.donate = '〔 Dᴏɴᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕\n\n››╭─〘 *Donasi* 〙\n╭╡📮: Donasi ngab jangan make bot doang.│\n┝‷✧ *Ovo:* 085798334597\n│┝‷✧ *Dana:* 085798334597\n│┝‷✧ *Gopay:* 085798334597\n│╰───···─────\n│⁺◛˖ Ingin Donasi? Chat nomor owner\n╰──────────···───╮'
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '62895394988123' //Nomor Bot mu
-global.nomorown = '6288215689772' //Nomormu
-global.namebot = 'Fangz BOT' //Nama bot mu
-global.nameown = 'Fangz Ganz' //Nama mu
+global.nomorbot = '6285863725673' //Nomor Bot mu
+global.nomorown = '62895404370477' //Nomormu
+global.namebot = 'YanzBot V2' //Nama bot mu
+global.nameown = 'YanzGamteng ><' //Nama mu
 
 /*⫘⫘⫘⫘GLOBAL FUNCTION⫘⫘⫘⫘⫘*/
 //KALAU MAGER EDIT, MENDING GAUSAH DI APA² IN. SAMA AJA//
-global.swo = 'https://wa.me/6288215689772' //Nomor mu
-global.linksc = 'https://bit.ly/3PqdYYS' //Gausah di ganti, biar ga eror
+global.swo = 'https://wa.me/62895404370477' //Nomor mu
+global.linksc = 'https://bit.ly/3S1e63a' //Gausah di ganti, biar ga eror
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰' //Gausah di apa² in
 global.botclick = '𝍤 CLICK HERE' //Bebas, Kalau gw saranin mending gausah di ganti.
-global.after = 'Bot by https://bit.ly/3QJOy9F'
-global.author = '                © Fangz BOT By Fangz' //Wm author
-global.acguest = 'Kamu akan Menggunakan akun guest dari FangzXD\n\nClick Button di bawah.'
-global.botintro = 'Hallo, Kenalin saya Fangz BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *FangzXD* Saya di rilis pada tanggal\n🗓 ️_16/04/2022_'
-global.sc = 'https://telegra.ph/file/ff583768b40239651d69d.jpg'
+global.after = 'Bot by https://bit.ly/3S1e63a'
+global.author = '                © Yanz BOT By Yanzz' //Wm author
+global.acguest = 'Kamu akan Menggunakan akun guest dari YanzBot\n\nClick Button di bawah.'
+global.botintro = 'Hallo, Kenalin saya Yanz BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *YanzOfc* Saya di rilis pada tanggal\n🗓 ️_16/04/2022_'
+global.sc = 'https://telegra.ph/file/badbd35b37e2de14a95a8.jpg'
 global.sallam = '💬 Waalaikumsallam'
-global.thumbBanned = 'https://telegra.ph/file/b810a9fbc18afc1aaa6c8.jpg'
-global.thumbWarn = 'https://telegra.ph/file/38f72943a6f152112d128.jpg'
-global.speed = 'https://telegra.ph/file/733725060ca73e223a0ab.jpg'
-global.ow = 'https://telegra.ph/file/43b5e212d5e713dc3f35d.jpg'
-global.intro = 'https://telegra.ph/file/489bbe15f3be834f1ac84.jpg'
-global.donsi = 'https://telegra.ph/file/a60e05249296c38bbb0d5.jpg'
+global.thumbBanned = 'https://telegra.ph/file/a745fb803894f3b9546fc.jpg'
+global.thumbWarn = 'https://telegra.ph/file/ddd44c5056df8fb60883b.jpg'
+global.speed = 'https://telegra.ph/file/1a2629766f4f1755ac87f.jpg'
+global.ow = 'https://telegra.ph/file/7dc893be47b13941cf702.jpg'
+global.intro = 'https://telegra.ph/file/9d5ce8577d601d3604745.jpg'
+global.donsi = 'https://telegra.ph/file/c66b3e59ed63e3ace8f76.jpg'
 global.assalam = 'https://telegra.ph/file/867134be21091efeee226.jpg'
-global.collab = 'https://telegra.ph/file/09f8b94f8d820153034e2.jpg'
-global.dand = 'https://telegra.ph/file/7fb83420644e354aa0eec.jpg'
-global.thumbEnable = 'https://telegra.ph/file/8c89c250c1cda88d92b3d.jpg'
-global.runtime = 'https://telegra.ph/file/624dda855b899a0c727a6.jpg'
-global.serialimg = 'https://telegra.ph/file/eaf30ca57d5c4c2d7a6f0.jpg'
-global.jlimit = 'https://telegra.ph/file/449ce1a72312c8fcb99f6.jpg'
+global.collab = 'https://telegra.ph/file/779c14ca34ce8d1909661.jpg'
+global.dand = 'https://telegra.ph/file/f0b423cabd86d277b855e.jpg'
+global.thumbEnable = 'https://telegra.ph/file/8b28cd6b49acf5c8c735c.jpg'
+global.runtime = 'https://telegra.ph/file/0c33874f8bfad9da78df4.jpg'
+global.serialimg = 'https://telegra.ph/file/5960be279229b8f401420.jpg'
+global.jlimit = 'https://telegra.ph/file/8db0901916603151f2e28.jpg'
 global.thumbDidyou = 'https://telegra.ph/file/e27e5468705a73de2328d.jpg'
-global.verify = 'https://telegra.ph/file/3b66f40f5d3f1748f993f.jpg'
+global.verify = 'https://telegra.ph/file/77ec6ad97b25d915b6dbc.jpg'
 global.thumbLevelup = 'https://telegra.ph/file/4d4e0b19e3feb1fa4c3cb.jpg'
 global.thumbEror = 'https://telegra.ph/file/430b8f1ae35c655bfee93.jpg'
-global.thumbnailCuaca = 'https://telegra.ph/file/636af9d2fb8194f4dbb94.jpg'
-global.guest = 'https://telegra.ph/file/b0ac5006061e9bc535a8f.jpg'
-global.thumbmenfes = 'https://telegra.ph/file/4be6353aeb9057e44825f.jpg'
+global.thumbnailCuaca = 'https://telegra.ph/file/29ca749f274b9b6fef138.jpg'
+global.guest = 'https://telegra.ph/file/58bd00dd2a6bfd9c76873.jpg'
+global.thumbmenfes = 'https://telegra.ph/file/3607eb436e2ad02659a44.jpg'
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
-  ['6281320170984'], //Owner1
-  ['79680341674'], //Owner2
-  ['6288215689772'], //Owner3
-  ['6288215689772', 'FANGZ ! 🥶', true] //Ini buat kamu!
+  ['62895404370477'], //Owner1
+  ['62895404370477'], //Owner2
+  ['62895404370477'], //Owner3
+  ['62895404370477', 'YANZ ! 🥶', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -145,17 +145,17 @@ global.APIKeys = { // APIKey Here
 
 /*⫘⫘⫘⫘ WATERMAK ⫘⫘⫘⫘⫘*/
 //GANTI JANGAN NGASAL.
-global.wm = '                「 赤 FANGZ - BOT ⁩இ 」' //Wm
-global.wm2 = '➳༻❀Fangz - Ganz❁ུ۪۪.;:୭̥.' //Name Wm
-global.wm3 = '赤 FANGZ - BOT'
+global.wm = '                「 赤 Yanz- BOT ⁩இ 」' //Wm
+global.wm2 = '➳༻❀Yanz - Ofc❁ུ۪۪.;:୭̥.' //Name Wm
+global.wm3 = '赤 Yanzz - BOT'
 global.hiasan = '꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦ ͝ ꒷ ͝ ꒦'
 global.botdate = `🗓️️ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '𝗬𝗧: FangzXD' //Ganti serah lu
+global.titlebot = '𝗬𝗧: YanzOfc' //Ganti serah lu
 
 /*⫘⫘⫘⫘ LOGO ⫘⫘⫘⫘⫘*/
 // INI JUGA GANTI SETERAH MU
-global.thumb = 'https://telegra.ph/file/22abfec5e8c5b3e6596d1.jpg' //Thumbnail nya
+global.thumb = 'https://telegra.ph/file/9ae2cadc01480b82a0523.jpg' //Thumbnail nya
 global.thumb2 = 'https://telegra.ph/file/312d5d7a5ad4d4f8b5d7a.jpg' //Thumbnail 2
 global.thumbbc = 'https://telegra.ph/file/3377bec81cd8614917d24.jpg' //Image Bcgcb
 global.giflogo = 'https://telegra.ph/file/048f99ba552944162b6b9.jpg' //Bebas
@@ -467,17 +467,17 @@ global.fsizedoc = '99999999999999' // 10TB
 global.fpagedoc = '999' //Gausah di ganti.
 
 /*⫘⫘⫘⫘ BIO OWNER ⫘⫘⫘⫘⫘*/
-global.nameowner = 'FangzXD'
-global.umurowner = '15'
-global.asalowner = 'Yogyakarta, Jawa tengah'
-global.nomorowner = 'wa.me/6288215689772'
+global.nameowner = 'YanzzOfc'
+global.umurowner = '18'
+global.asalowner = 'Bandung, JawabBarat'
+global.nomorowner = 'wa.me/62895404370477'
 global.pacarowner = 'Ga ada pacar'
 /*⫘⫘⫘⫘ HIASAN ⫘⫘⫘⫘⫘*/
 // DEFAULT MENU
 global.dmenut = '╭━•〔' //top
 global.dmenub = '│‣͎۪۫' //body
 global.dmenub2 = '│' //body for info cmd on Default menu
-global.dmenuf = '𝙏𝙃𝘼𝙉𝙆𝙎 𝙏𝙊\n\n◐ Fokus ID\n◐FangzXD\n◐The.sad.boy01\n◐Kanna\n◐Nurutomo\n◐Bochilgaming\n◐Amirul\n◐Ilham\n◐Rasel\n◐Pemakai bot ini\n◐I love you\n\n© https://bit.ly/3QJOy9F' //footer
+global.dmenuf = '𝙏𝙃𝘼𝙉𝙆𝙎 𝙏𝙊\n\n◐ Fokus ID\n◐YanzOfc\n◐The.sad.boy01\n◐Kanna\n◐Nurutomo\n◐Bochilgaming\n◐Amirul\n◐Ilham\n◐Rasel\n◐Pemakai bot ini\n◐I love you\n\n© https://bit.ly/3BrhBZB' //footer
 
 // COMMAND MENU
 global.cmenut = '╭━•〔' //top
@@ -498,12 +498,12 @@ global.hsquere = ['⛶','❏','⫹⫺']
 /*⫘⫘⫘⫘ FAKE NYA ⫘⫘⫘⫘⫘*/
 global.fsizedoc = '1'.repeat(10)
 global.fpagedoc = '1'.repeat(10)
-global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
+global.thumbdoc = 'https://telegra.ph/file/657860c2cf3f55e032871.jpg'
 
 /*⫘⫘⫘⫘ STICKER ⫘⫘⫘⫘⫘*/
-global.stickpack = 'YT: FangzXD'
-global.stickauth = `© Fangz BOT\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
-global.packname = 'By FangzXD'
+global.stickpack = 'YanzBotz'
+global.stickauth = `© Yanz BOTZ\nOfficial by Whatsapp\nNomor: ${global.nomorbot}`
+global.packname = 'By YanzOfc'
 
 
 global.multiplier = 38 // The higher, The harder levelup
